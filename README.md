@@ -42,4 +42,5 @@ Improving my backend development skills, building scalable web applications, and
 I'm open to part-time remote opportunities, contract projects, and collaborations.
 
 - GitHub: https://github.com/nimra5932
+- LinkedIn: https://www.linkedin.com/in/nimra-younas-3a3371416
 - Email: nimrayounas116@gmail.com
